@@ -257,4 +257,3 @@ function filters(Request $request) {
 ```
 
 Also you can specify another filter key over method `key`.
-# nova-dependent-filter
